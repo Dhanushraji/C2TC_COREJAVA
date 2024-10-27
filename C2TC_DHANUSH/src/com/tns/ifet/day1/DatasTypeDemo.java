@@ -14,5 +14,4 @@ public class DatasTypeDemo {
 		double percentage=marker*0.46f;
 		System.out.println("percentage="+percentage);
 	}
-
 }
